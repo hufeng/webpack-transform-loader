@@ -1,0 +1,11 @@
+{
+  "name": "webpack-transform-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hufeng/webpack-transform-loader.git",
+  "author": "hufeng <hufeng@qianmi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
